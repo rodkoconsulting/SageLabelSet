@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SageLabelSet", "SageLabelSet\SageLabelSet.csproj", "{C33F988D-B1C1-4CDD-A834-B2229EBC5C52}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SageLabelSetv2", "SageLabelSetv2\SageLabelSetv2.csproj", "{A1E51BE1-7899-49F7-9B72-12526463096F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,14 @@ Global
 		{C33F988D-B1C1-4CDD-A834-B2229EBC5C52}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C33F988D-B1C1-4CDD-A834-B2229EBC5C52}.Release|x86.ActiveCfg = Release|x86
 		{C33F988D-B1C1-4CDD-A834-B2229EBC5C52}.Release|x86.Build.0 = Release|x86
+		{A1E51BE1-7899-49F7-9B72-12526463096F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1E51BE1-7899-49F7-9B72-12526463096F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1E51BE1-7899-49F7-9B72-12526463096F}.Debug|x86.ActiveCfg = Debug|x86
+		{A1E51BE1-7899-49F7-9B72-12526463096F}.Debug|x86.Build.0 = Debug|x86
+		{A1E51BE1-7899-49F7-9B72-12526463096F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1E51BE1-7899-49F7-9B72-12526463096F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1E51BE1-7899-49F7-9B72-12526463096F}.Release|x86.ActiveCfg = Release|x86
+		{A1E51BE1-7899-49F7-9B72-12526463096F}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
